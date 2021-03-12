@@ -25,6 +25,7 @@
        >
       <!-- 相対パスでやる場合は、:src="require('/header.png')"で表記する必要がある -->
       </v-img></router-link>
+      margeするために追加
         <router-link to="/serves">サービス</router-link>
         <router-link to="/company">事業概要</router-link>
         <router-link to="/contactUs">お問い合わせ</router-link>
